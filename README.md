@@ -58,7 +58,7 @@ Client names and confidential project details are left out of the case studies b
 - **Problem:** Printed documents sat in shared printer trays where anyone could pick them up.
 - **My role:** Planned, designed, built and deployed it end to end, working directly with a printer manufacturer, rental-company staff and the client's team.
 - **What I did:** A Windows PC agent and a printer-side Android app that talk to each other without a central server. Documents sent to a virtual printer stay on the user's PC until the user signs in at the printer with a card or PIN. A Windows installer that sets up the printer and firewall automatically, with code signing and per-device licensing. An admin console for users, printers and policies, with CSV bulk import.
-- **Result:** A B2B product sold to companies. Field-tested and shipped v1.0–v1.1 to customer sites, with an on-site installation runbook.
+- **Result:** A B2B product sold to companies, now at v1.1 and installed at customer sites with an installation runbook.
 
 </details>
 

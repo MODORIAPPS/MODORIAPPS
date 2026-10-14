@@ -1,6 +1,6 @@
 ## Jeremy Kwon
 
-Full-stack product engineer in South Korea. I own production systems end to end — from the first commit to the midnight incident report — across SSO, payments, mobile apps and zero-downtime migrations. I've also founded and shipped products of my own.
+Full-stack product engineer in South Korea. I own production systems end to end — from the first commit to the midnight incident report — across SSO, payments, mobile apps and zero-downtime migrations. I work directly with clients, vendors and partner companies, from requirements to on-site rollout. I've also founded and shipped products of my own.
 
 **Taking on contract projects:** new builds, takeovers of live systems, and long-term maintenance. Also open to full-time product engineering roles. Working in Korean and English.
 
@@ -56,7 +56,7 @@ Client names and confidential project details are left out of the case studies b
 <summary><b>Secure pull-print product, from planning to on-site rollout</b> · 2026, ongoing</summary>
 
 - **Problem:** Printed documents sat in shared printer trays where anyone could pick them up.
-- **My role:** Planned, designed, built and deployed it end to end, working directly with the printer manufacturer (HP), rental-company staff and the client's team.
+- **My role:** Planned, designed, built and deployed it end to end, working directly with a printer manufacturer, rental-company staff and the client's team.
 - **What I did:** A Windows PC agent and a printer-side Android app that talk to each other without a central server. Documents sent to a virtual printer stay on the user's PC until the user signs in at the printer with a card or PIN. A Windows installer that sets up the printer and firewall automatically, with code signing and per-device licensing. An admin console for users, printers and policies, with CSV bulk import.
 - **Result:** Field-tested and shipped v1.0–v1.1 to client sites, with an on-site installation runbook.
 
@@ -69,6 +69,7 @@ Client names and confidential project details are left out of the case studies b
 - Extra requests get a one-page estimate (scope, hours, cost) and start only after approval.
 - Incidents get a written report: impact, cause, fix, and steps to prevent a repeat.
 - Code, docs, servers and accounts are handed over in the client's name.
+- I talk directly with clients, vendors and partners, so there is no middle layer between you and the person building it.
 - I lead and build every project myself, and bring in design or dev partners when the scope needs it.
 
 ### More client work

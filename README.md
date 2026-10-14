@@ -52,6 +52,16 @@ Client names and confidential project details are left out of the case studies b
 
 </details>
 
+<details>
+<summary><b>Secure pull-print product, from planning to on-site rollout</b> · 2026, ongoing</summary>
+
+- **Problem:** Printed documents sat in shared printer trays where anyone could pick them up.
+- **My role:** Planned, designed, built and deployed it end to end, working directly with the printer manufacturer (HP), rental-company staff and the client's team.
+- **What I did:** A Windows PC agent and a printer-side Android app that talk to each other without a central server. Documents sent to a virtual printer stay on the user's PC until the user signs in at the printer with a card or PIN. A Windows installer that sets up the printer and firewall automatically, with code signing and per-device licensing. An admin console for users, printers and policies, with CSV bulk import.
+- **Result:** Field-tested and shipped v1.0–v1.1 to client sites, with an on-site installation runbook.
+
+</details>
+
 ### How I work
 
 - Scope and done criteria are agreed before work starts.
